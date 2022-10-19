@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AbstractClassAndInterface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Access modifier/bai1/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutomatedTestingAndTDD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutomatedTestingAndTDD/apj-junit-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clean Code &amp; Refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSA-DanhSach" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeThua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LopVaDoiTuongTrongJaVa/bai tap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/introduction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/introduction/thuchanh" vcs="Git" />
+  </component>
+</project>
