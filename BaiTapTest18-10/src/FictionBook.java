@@ -15,4 +15,10 @@ public class FictionBook extends Book{
     public void setCategory(String category) {
         this.category = category;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                "; category='" + category  ;
+    }
 }
