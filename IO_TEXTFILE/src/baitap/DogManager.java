@@ -77,7 +77,7 @@ public class DogManager {
     public void showDogByWeight(){
         for(int i = 0; i < lists.size(); i++){
             if(lists.get(i).getWeight() > 2){
-                System.out.println(lists);
+                System.out.println(lists.get(i));
             }
         }
     }
